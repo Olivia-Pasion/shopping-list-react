@@ -1,4 +1,3 @@
-import { useContext } from 'react';
 import { Redirect, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Auth from './components/Auth/Auth';
